@@ -59,7 +59,7 @@ int main () {
     answerQ(bark,b);
 
     // Question #3
-    cout << "What's her name: ";
+    cout << "What's the pretty thing's name: ";
     cin >> dollname;
     answerQ(dollname,c);
 
