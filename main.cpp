@@ -54,7 +54,7 @@ int main () {
     answerA(apples, a);
 
     // Question #2
-    cout << "What did the dog say: ";
+    cout << "What did the pet say: ";
     cin >> bark;
     answerQ(bark,b);
 
